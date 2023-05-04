@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 """
-This code is supposed to calculate the Fibonnaci sequence
+This code is supposed to calculate the FUCK Fibonnaci sequence
 and do some other calculations with it
 """
 
